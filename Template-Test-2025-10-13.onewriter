@@ -1,0 +1,49 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "position": 1,
+      "column1_annotation": "<p>Annotation for card one.</p>",
+      "column1": "<p><strong><em><u>This is a Test File</u></em></strong></p>",
+      "cardName_1": "Card One Test",
+      "column1_selected": [
+        "Tag One"
+      ]
+    }
+  ],
+  "columns": [
+    {
+      "id": 1,
+      "position": 1,
+      "name": ""
+    }
+  ],
+  "tagLibrary": [
+    {
+      "id": 1760389596007,
+      "text": "Tag One"
+    }
+  ],
+  "selectedTags": [
+    {
+      "rowId": 1,
+      "selections": {
+        "column1": [
+          "Tag One"
+        ]
+      }
+    }
+  ],
+  "savedStyles": [
+    {
+      "underline": true,
+      "italic": true,
+      "bold": true,
+      "value": "<p>Saved Style 1</p>",
+      "name": "Saved Style 1"
+    }
+  ],
+  "favSavedStyles": [
+    "favButtonGroupBox-0"
+  ]
+}
