@@ -1,0 +1,98 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "position": 1,
+      "column1_annotation": "<p><strong class=\"ql-size-20px ql-font-serif\"><u>Annotation One</u></strong></p>",
+      "column1": "<p><strong class=\"ql-font-monospace ql-size-36px\"><em>Card </em></strong><strong class=\"ql-font-monospace ql-size-36px\" style=\"color: rgb(230, 0, 0);\"><em>One Ready!</em></strong></p><p>What is Lorem Ipsum?</p><p><br></p><p>END OF ONE</p>",
+      "column1_selected": [
+        "Tag One",
+        "Tag Two"
+      ],
+      "cardName_1": "One Card"
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p style=\"line-height: 1.5;\"><span class=\"ql-size-16px\">﻿Two Anno Two</span></p>",
+      "column1": "<p style=\"line-height: 1.5;\"><u class=\"ql-font-serif ql-size-16px\">﻿</u><u class=\"ql-font-serif\">Two is in the game…</u></p><p><br></p><p>END OF TWO</p>",
+      "column1_selected": [],
+      "cardName_1": "Two Card"
+    },
+    {
+      "id": 3,
+      "position": 3,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p style=\"line-height: 1.5;\"><span class=\"ql-size-16px\">Three Be Me Anno﻿</span></p>",
+      "column1": "<p style=\"line-height: 1.5;\"><u class=\"ql-size-16px ql-font-monospace\">﻿</u><u class=\"ql-font-monospace\">Three is the ticket 😃</u></p><p style=\"line-height: 1.5;\"><br></p><p style=\"line-height: 1.5;\"><br></p><p style=\"line-height: 1.5;\">END OF THREE</p>",
+      "column1_selected": [
+        "Tag One"
+      ],
+      "cardName_1": "Three Card"
+    }
+  ],
+  "columns": [
+    {
+      "id": 1,
+      "position": 1,
+      "name": ""
+    }
+  ],
+  "tagLibrary": [
+    {
+      "id": 1754484749741,
+      "text": "Tag One"
+    },
+    {
+      "id": 1754500615066,
+      "text": "Tag Two"
+    }
+  ],
+  "selectedTags": [
+    {
+      "rowId": 1,
+      "selections": {
+        "column1": [
+          "Tag One",
+          "Tag Two"
+        ]
+      }
+    },
+    {
+      "rowId": 2,
+      "selections": {
+        "column1": []
+      }
+    },
+    {
+      "rowId": 3,
+      "selections": {
+        "column1": [
+          "Tag One"
+        ]
+      }
+    }
+  ],
+  "savedStyles": [
+    {
+      "italic": true,
+      "bold": true,
+      "value": "<p>Saved Style 1</p>",
+      "name": "Saved Style 1"
+    }
+  ],
+  "favSavedStyles": [
+    "favButtonGroupBox-0"
+  ]
+}
