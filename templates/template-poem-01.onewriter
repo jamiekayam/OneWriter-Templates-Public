@@ -1,0 +1,64 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "position": 1,
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p>There once was Jerry so true, </p><p>A friend you can trust, through and through, </p><p>He kept every vow, </p><p>And his words never avowed, </p><p>A loyal friend, through and through. </p>"
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p>He stood by your side through thick and thin, </p><p>A constant companion, a friend within, </p><p>His heart full of love and light, </p><p>Guiding you through the darkest night, </p><p>And shining brighter with each new day's win.</p>"
+    },
+    {
+      "id": 3,
+      "position": 3,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p>Through trials and tribulations, he remained strong, </p><p>A rock for you to cling to, all day long, </p><p>His loyalty and heart, a guiding star, </p><p>That led you through life's journey, near and far, </p><p>And with him by your side, you knew you couldn't go wrong.</p>"
+    }
+  ],
+  "columns": [
+    {
+      "id": 1,
+      "position": 1,
+      "name": ""
+    }
+  ],
+  "tagLibrary": [],
+  "selectedTags": [
+    {
+      "rowId": 1,
+      "selections": {
+        "column1": []
+      }
+    },
+    {
+      "rowId": 2,
+      "selections": {
+        "column1": []
+      }
+    },
+    {
+      "rowId": 3,
+      "selections": {
+        "column1": []
+      }
+    }
+  ],
+  "savedStyles": [],
+  "favSavedStyles": []
+}

@@ -1,0 +1,28 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "position": 1,
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p>Hello my friend, we meet again!</p>"
+    }
+  ],
+  "columns": [
+    {
+      "id": 1,
+      "position": 1,
+      "name": ""
+    }
+  ],
+  "tagLibrary": [],
+  "selectedTags": [
+    {
+      "rowId": 1,
+      "selections": {
+        "column1": []
+      }
+    }
+  ],
+  "savedStyles": [],
+  "favSavedStyles": []
+}
