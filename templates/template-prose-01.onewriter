@@ -1,0 +1,74 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "position": 1,
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p class=\"ql-align-center\"><strong><u>Story Title</u></strong></p><p><br></p><p><span class=\"ql-size-14px\">This is an extremely short story. It's so short, it would not be unrealistic to aregue that it's not much of a story at all, but this is my story and I'm sticking to it.</span></p><p><br></p><p><span class=\"ql-size-14px\">Meanwhile, I had ordered a pizza well over thirty minutes ago, and I was very specific that it should not be well-done! Yes, I stand alone, the wind pushing leaves gently across the pavement as I watch from my window, and it's not what I see but what I don't see, and what I do not see it my pizza getting delivered.</span></p><p><br></p><p><strong><em>Back in the old days when we used to pay cash for things like a pizza pie, people understood the gravity of the situation.</em></strong></p><p><br></p><p><br></p><p><strong><em><span class=\"ql-cursor\">﻿</span></em></strong></p>",
+      "column1_selected": []
+    }
+  ],
+  "columns": [
+    {
+      "id": 1,
+      "position": 1,
+      "name": ""
+    }
+  ],
+  "tagLibrary": [
+    {
+      "id": 1767648900550,
+      "text": "Intro"
+    },
+    {
+      "id": 1767648904860,
+      "text": "Prologue"
+    },
+    {
+      "id": 1767648908942,
+      "text": "Epilogue"
+    },
+    {
+      "id": 1767648913314,
+      "text": "Overture"
+    },
+    {
+      "id": 1767648923350,
+      "text": "Outro"
+    }
+  ],
+  "selectedTags": [
+    {
+      "rowId": 1,
+      "selections": {
+        "column1": []
+      }
+    }
+  ],
+  "savedStyles": [
+    {
+      "align": "center",
+      "value": "<p class=\"ql-align-center\"><strong><u>Title</u></strong></p>",
+      "name": "Title",
+      "underline": true,
+      "bold": true
+    },
+    {
+      "size": "14px",
+      "value": "<p><span class=\"ql-size-14px\">Body Text</span></p>",
+      "name": "Body Text"
+    },
+    {
+      "blockquote": true,
+      "value": "<blockquote><strong><em>Quoted Bold</em></strong></blockquote>",
+      "name": "Quoted Bold",
+      "italic": true,
+      "bold": true
+    }
+  ],
+  "favSavedStyles": [
+    "favButtonGroupBox-0",
+    "favButtonGroupBox-1",
+    "favButtonGroupBox-2"
+  ]
+}

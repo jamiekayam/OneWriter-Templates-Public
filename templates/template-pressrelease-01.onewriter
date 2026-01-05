@@ -1,0 +1,117 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "position": 1,
+      "column1_annotation": "<p><br></p>",
+      "cardName_1": "Opener",
+      "column1": "<p class=\"ql-align-right\">January 1st, 2026</p><p class=\"ql-align-center\"><strong><u>OneWriter Press Release</u></strong></p><p class=\"ql-align-center\">Application Version 1.0 Available Now For Free at <a href=\"OneWriter.app\" rel=\"noopener noreferrer\" target=\"_blank\">OneWriter.app</a></p>",
+      "column1_selected": [
+        "Header"
+      ]
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "cardName_1": "News",
+      "column1": "<p>As of today OneWriter, the innovative writing application that combines the writing power of a word processor and the data organizational power of a spreadsheet is now available for free. Simply navigate to OneWriter.app, then enter your email address and click on the button labeled \"Start Writing\".</p><p><br></p><p><strong><em>When Jerry the Chameleon was asked what he thought about all this, he simply replied: \"Feed Me\". </em></strong></p>",
+      "column1_selected": [
+        "News"
+      ]
+    },
+    {
+      "id": 3,
+      "position": 3,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><strong class=\"ql-size-14px\">OneWriter is a free writing application developed by Jamie Kayam's design studio, \"App About It\", with a mission to create new and useful software tools that inspire users to be creative, positive, and productive.</strong></p><p><br></p><p><strong class=\"ql-size-14px\">Learn more at </strong><a href=\"https://onewriter-2025-11-17-a-01.pages.dev/www.JamieKayam.com\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"ql-size-14px\"><strong>www.JamieKayam.com</strong></a></p>",
+      "cardName_1": "Boilerplate",
+      "column1": "<p><br></p>",
+      "column1_selected": [
+        "Boilerplate"
+      ]
+    }
+  ],
+  "columns": [
+    {
+      "id": 1,
+      "position": 1,
+      "name": ""
+    }
+  ],
+  "tagLibrary": [
+    {
+      "id": 1767649617478,
+      "text": "Header"
+    },
+    {
+      "id": 1767649642757,
+      "text": "News"
+    },
+    {
+      "id": 1767649651766,
+      "text": "Boilerplate"
+    }
+  ],
+  "selectedTags": [
+    {
+      "rowId": 1,
+      "selections": {
+        "column1": [
+          "Header"
+        ]
+      }
+    },
+    {
+      "rowId": 2,
+      "selections": {
+        "column1": [
+          "News"
+        ]
+      }
+    },
+    {
+      "rowId": 3,
+      "selections": {
+        "column1": [
+          "Boilerplate"
+        ]
+      }
+    }
+  ],
+  "savedStyles": [
+    {
+      "align": "center",
+      "value": "<p class=\"ql-align-center\"><strong><u>Header</u></strong></p>",
+      "name": "Header",
+      "underline": true,
+      "bold": true
+    },
+    {
+      "align": "right",
+      "value": "<p class=\"ql-align-right\">Date</p>",
+      "name": "Date"
+    },
+    {
+      "value": "<p><strong><em>Quotes</em></strong></p>",
+      "name": "Quotes",
+      "italic": true,
+      "bold": true
+    }
+  ],
+  "favSavedStyles": [
+    "favButtonGroupBox-0",
+    "favButtonGroupBox-1"
+  ]
+}
