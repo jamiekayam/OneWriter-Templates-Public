@@ -1,0 +1,257 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "position": 1,
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p><strong>Journal Entry 0001</strong></p><p class=\"ql-align-right\"><em>Date 2025-12-23</em></p><p>Captain's Log</p><p>Multiple entities have attempted to play a video game from the same Steam account simultaneously, however, due to licensing enforcement only one user may play at a time. There are whispers of mutiny…</p><p>However, my resolve is as strong as steel!</p><p><br></p><p><br></p><p><br></p>",
+      "column1_selected": [
+        "Primary"
+      ]
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p><strong>Journal Entry 0002</strong></p><p class=\"ql-align-right\"><em>Date 2025-12-24</em></p><p>Captain's Log</p><p>I've locked myself in the broom closet to avoid capture. The natives are relentless. They have eaten all the snacks and joined forces to overthrow my command. My request to negotiate terms received the reply, \"six, seven\". The global translator does not seem to be functioning properly.</p><p>I have attempted with the smallest mutiny with an offer of one million dollars, in Monopoly money. Negotiations are ongoing.</p><p><br></p>",
+      "column1_selected": [
+        "Important"
+      ]
+    },
+    {
+      "id": 3,
+      "position": 3,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p><strong>Journal Entry 0003</strong></p><p class=\"ql-align-right\"><em>Date 2025-12-25</em></p><p>Captain's Log</p><p>Attacked! They are beating on the door. They are chanting incoherent giberish. Is there no decency in this world?</p><p><br></p><p><br></p><p><br></p>"
+    },
+    {
+      "id": 4,
+      "position": 4,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p><strong>Journal Entry 0004</strong></p><p class=\"ql-align-right\"><em>Date 2025-12-26</em></p><p>Captain's Log</p><p>A small creature has fallen from the ceiling air vent into my lap. In a very polished Brooklyn accent it has requested I make it a cup of \"caw-fee\". I am not myself, the walls seem to be changing colors.</p><p><br></p><p><br></p><p><br></p>",
+      "column1_selected": [
+        "Evidence DO NOT DELETE"
+      ]
+    },
+    {
+      "id": 5,
+      "position": 5,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p><strong>Journal Entry 005</strong></p><p class=\"ql-align-right\"><em>Date 2025-12-27</em></p><p>Captain's Log</p><p>I regret it all. When they complained I didn't listen. When they sang in joy I silenced them. Is that you John Wayne? Is this me???</p><p><br></p><p><br></p><p><br></p>"
+    },
+    {
+      "id": 6,
+      "position": 6,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p><strong>Journal Entry 0006</strong></p><p class=\"ql-align-right\"><em>Date 2025-12-28</em></p><p>Captain's Log</p><p>The fluorescent lamps have been beaming into my eyes for days while the national anthem plays in Esperanto on an endless repeating loop. My tongue refuses to agree to stay in my mouth.</p><p><br></p><p><br></p><p><br></p>"
+    },
+    {
+      "id": 7,
+      "position": 7,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p><strong>Journal Entry 0007</strong></p><p class=\"ql-align-right\"><em>Date 2025-12-29</em></p><p>Captain's Log</p><p>I dream of carnitas burritos with extra cheese, yet in my dreams a stange person keeps asking me if I want fries with that? </p><p><br></p><p><br></p><p><br></p>"
+    },
+    {
+      "id": 8,
+      "position": 8,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p><strong>Journal Entry 0008</strong></p><p class=\"ql-align-right\"><em>Date 2025-12-30</em></p><p>Captain's Log</p><p>Apparently, while communicator is mostly non-functioning, the Amazon app continues to work! I have renewed my Prime membership and ordered a later for same day delivery.</p><p><br></p><p>I hear a knock on the door…</p><p><br></p><p><br></p><p><br></p>"
+    },
+    {
+      "id": 9,
+      "position": 9,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p><strong>Journal Entry 0009</strong></p><p class=\"ql-align-right\"><em>Date 2025-12-31</em></p><p>Captain's Log</p><p>Damnit, the rebels have eaten the Amazon delivery driver. His screams echo in my brain. </p><p><br></p><p><br></p><p><br></p>",
+      "column1_selected": [
+        "2025 Q4"
+      ]
+    },
+    {
+      "id": 10,
+      "position": 10,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p><strong>Journal Entry 0010</strong></p><p class=\"ql-align-right\"><em>Date 2026-01-01</em></p><p>Ensign's Log</p><p>We have entered the broom closet and found the captain. His eyes are open but he's snoring. His lips are moving but I cannot hear what he's saying. We're moving him to sick bay at this very moment.</p><p><br></p><p><br></p><p><br></p>",
+      "column1_selected": [
+        "Supplimental",
+        "2026 Q1"
+      ]
+    }
+  ],
+  "columns": [
+    {
+      "id": 1,
+      "position": 1,
+      "name": ""
+    }
+  ],
+  "tagLibrary": [
+    {
+      "id": 1767735200796,
+      "text": "Important"
+    },
+    {
+      "id": 1767735214908,
+      "text": "2025 Q4"
+    },
+    {
+      "id": 1767735220525,
+      "text": "2026 Q1"
+    },
+    {
+      "id": 1767735230448,
+      "text": "Supplimental"
+    },
+    {
+      "id": 1767735236307,
+      "text": "Primary"
+    },
+    {
+      "id": 1767735245790,
+      "text": "Evidence DO NOT DELETE"
+    }
+  ],
+  "selectedTags": [
+    {
+      "rowId": 1,
+      "selections": {
+        "column1": [
+          "Primary"
+        ]
+      }
+    },
+    {
+      "rowId": 2,
+      "selections": {
+        "column1": [
+          "Important"
+        ]
+      }
+    },
+    {
+      "rowId": 3,
+      "selections": {
+        "column1": []
+      }
+    },
+    {
+      "rowId": 4,
+      "selections": {
+        "column1": [
+          "Evidence DO NOT DELETE"
+        ]
+      }
+    },
+    {
+      "rowId": 5,
+      "selections": {
+        "column1": []
+      }
+    },
+    {
+      "rowId": 6,
+      "selections": {
+        "column1": []
+      }
+    },
+    {
+      "rowId": 7,
+      "selections": {
+        "column1": []
+      }
+    },
+    {
+      "rowId": 8,
+      "selections": {
+        "column1": []
+      }
+    },
+    {
+      "rowId": 9,
+      "selections": {
+        "column1": [
+          "2025 Q4"
+        ]
+      }
+    },
+    {
+      "rowId": 10,
+      "selections": {
+        "column1": [
+          "Supplimental",
+          "2026 Q1"
+        ]
+      }
+    }
+  ],
+  "savedStyles": [
+    {
+      "value": "<p><strong>Entry</strong></p>",
+      "name": "Entry",
+      "bold": true
+    },
+    {
+      "align": "right",
+      "value": "<p class=\"ql-align-right\"><em>Date</em></p>",
+      "name": "Date",
+      "italic": true
+    }
+  ],
+  "favSavedStyles": [
+    "favButtonGroupBox-0",
+    "favButtonGroupBox-1"
+  ]
+}
