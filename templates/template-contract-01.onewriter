@@ -1,0 +1,92 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "position": 1,
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p class=\"ql-align-center\"><strong><u>Sales Contract</u></strong></p><p>A Gift Basket of Chips (Crisps)</p><p><br></p><p><strong>Concerned Parties:</strong></p><ul><li>Chip Seller</li><li>Hungry Chip Eater</li></ul><p><br></p>",
+      "column1_selected": [
+        "Items"
+      ]
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<ol><li>Trader Joe's Ghost Pepper Lattice Cut Kettle Cooked Russet Potato Chips</li><li>Pringles Sour Cream MSG Special</li><li>Cheese Puffs from Mystery Supplier with Red Dye #40</li></ol>",
+      "column1_selected": [
+        "Items"
+      ]
+    },
+    {
+      "id": 3,
+      "position": 3,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p><strong>Chip Seller\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</strong></p><p><br></p><p>Name __________________________________ date_________\t</p><p><br></p><p><strong>Hungry Chip Eater</strong></p><p><br></p><p>Name __________________________________ date_________</p>",
+      "column1_selected": [
+        "Endorsements"
+      ]
+    }
+  ],
+  "columns": [
+    {
+      "id": 1,
+      "position": 1,
+      "name": ""
+    }
+  ],
+  "tagLibrary": [
+    {
+      "id": 1768245785055,
+      "text": "Items"
+    },
+    {
+      "id": 1768245790414,
+      "text": "Header"
+    },
+    {
+      "id": 1768245798006,
+      "text": "Endorsements"
+    }
+  ],
+  "selectedTags": [
+    {
+      "rowId": 1,
+      "selections": {
+        "column1": [
+          "Items"
+        ]
+      }
+    },
+    {
+      "rowId": 2,
+      "selections": {
+        "column1": [
+          "Items"
+        ]
+      }
+    },
+    {
+      "rowId": 3,
+      "selections": {
+        "column1": [
+          "Endorsements"
+        ]
+      }
+    }
+  ],
+  "savedStyles": [],
+  "favSavedStyles": []
+}
