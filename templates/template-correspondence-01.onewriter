@@ -1,0 +1,67 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "position": 1,
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p><strong>To: <u>My Dear Friend Jerry</u></strong></p><p>Re: You are such a chameleon!</p>",
+      "column1_selected": []
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p><br></p>",
+      "column1": "<p>Hi Jerry,</p><p>How are you? I was telling some friends today about you. <em>Everyone thinks you're so cool. </em>I showed then a photo of you taking a nap, and all agreed: <strong>you're super cute when you roll up your tail!</strong></p>",
+      "column1_selected": []
+    },
+    {
+      "id": 3,
+      "position": 3,
+      "column2": "",
+      "column3": "",
+      "column4": "",
+      "column5": "",
+      "column6": "",
+      "column7": "",
+      "column1_annotation": "<p class=\"ql-indent-2\" style=\"line-height: 1.5;\"><span class=\"ql-size-16px\">﻿</span></p><p class=\"ql-indent-2\"><em>With kind regards, your friend,</em></p><p class=\"ql-indent-2\"><strong>– Jamie</strong> 😊</p><p class=\"ql-indent-2\">jamiekayam@gmail.com</p>",
+      "column1": "<p>Signature</p>",
+      "column1_selected": []
+    }
+  ],
+  "columns": [
+    {
+      "id": 1,
+      "position": 1,
+      "name": ""
+    }
+  ],
+  "tagLibrary": [],
+  "selectedTags": [
+    {
+      "rowId": 1,
+      "selections": {
+        "column1": []
+      }
+    },
+    {
+      "rowId": 2,
+      "selections": {
+        "column1": []
+      }
+    },
+    {
+      "rowId": 3,
+      "selections": {
+        "column1": []
+      }
+    }
+  ],
+  "savedStyles": [],
+  "favSavedStyles": []
+}
